@@ -4,9 +4,11 @@
 
 </div>
 
-# DevOps Engineer — Cloud & Infrastructure Automation
+# Dhairya Panchal — DevOps Engineer
 
->I design, build, and operate reliable, secure, and cost-effective cloud platforms using automated Infrastructure as Code and repeatable CI/CD pipelines.
+> Cloud & Infrastructure Automation
+
+I design, build, and operate reliable, secure, and cost-effective cloud platforms using automated Infrastructure as Code and repeatable CI/CD pipelines.
 
 ---
 
@@ -60,6 +62,7 @@ Open to collaboration, contract work, and mentorship. Share what you'd like to s
 
 - GitHub: https://github.com/dhairyapanchal16
 - Email: (add your contact email here)
+ - LinkedIn: https://www.linkedin.com/in/dhairya-panchal-800845351/
 
 ---
 
