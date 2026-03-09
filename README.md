@@ -4,7 +4,7 @@
 
 </div>
 
-# Dhairya Panchal — DevOps Engineer
+# Dhairya Panchal — DevOps Engineer Intern
 
 > Architecting resilient, secure, and automated cloud platforms
 
